@@ -1,0 +1,88 @@
+[PROJECT]
+Target=Probador18f2520.hex
+Processor_Text=PIC18F2520
+CCSVersion=5.112
+Compiler=PCH
+[Target Data]
+FileList=Probador18f2520.c
+[Probador18f2520.c]
+Type=4
+[mru-list]
+1=Probador18f2520.c
+
+[defines]
+buildcount=38
+
+[Opened Files]
+1=Probador18f2520.c
+t1=1406
+Count=1
+
+[ProjectLog]
+Days=4
+D1=30-04-2025
+D1_L=4
+D1_L1=[78710]Stopped Editing.
+D1_L2=[79223]Started Editing.
+D1_L3=[79540]Stopped Editing.
+TotalEdit=55
+TotalDebug=0
+D1_E=4
+D1_D=0
+D1_L4=[80132]Project Closed.
+D2=15-05-2025
+D2_L=13
+D2_L1=[78930]Project Opened.
+D2_L2=[80693]Started Editing.
+D2_L3=[80993]Stopped Editing.
+D2_L4=[80999]Started Editing.
+D2_L5=[81300]Stopped Editing.
+D2_L6=[81556]Started Editing.
+D2_L7=[81856]Stopped Editing.
+D2_L8=[82478]Started Editing.
+D2_L9=[82982]Stopped Editing.
+D2_L10=[83489]Started Editing.
+D2_L11=[83943]Stopped Editing.
+D2_L12=[84571]Started Editing.
+D2_L13=[84871]Stopped Editing.
+D3=16-05-2025
+D3_L=13
+D3_L1=[694]Started Editing.
+D3_L2=[994]Stopped Editing.
+D3_E=31
+D3_D=0
+D3_L3=[3616]Project Closed.
+D3_L4=[60940]Project Opened.
+D3_L5=[61911]Started Editing.
+D3_L6=[62435]Stopped Editing.
+D3_L7=[62451]Started Editing.
+D3_L8=[63050]Stopped Editing.
+D3_L9=[63050]Project Closed.
+D3_L10=[63636]Project Opened.
+D3_L11=[64114]Started Editing.
+D3_L12=[65055]Stopped Editing.
+D3_L13=[74939]Project Closed.
+D4=17-05-2025
+D4_L=14
+D4_L1=[923]Project Opened.
+D4_L2=[1032]Started Editing.
+D4_L3=[1690]Stopped Editing.
+D4_L4=[1785]Started Editing.
+D4_L5=[2459]Stopped Editing.
+D4_L6=[2587]Started Editing.
+D4_L7=[2892]Stopped Editing.
+D4_L8=[3458]Started Editing.
+D4_L9=[3928]Stopped Editing.
+D4_L10=[4018]Started Editing.
+D4_L11=[4410]Stopped Editing.
+D4_L12=[4580]Started Editing.
+D4_L13=[5022]Stopped Editing.
+D4_E=20
+D4_D=0
+D4_L14=[10016]Project Closed.
+
+[fileformats]
+forcecoff=0
+[Units]
+Count=1
+1=Probador18f2520 (main)

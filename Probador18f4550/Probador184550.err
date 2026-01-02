@@ -1,0 +1,47 @@
+Compiling C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550 on 22-abr.-25 at 23:52
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 320(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 331(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 333(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 417(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 426(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 495(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 562(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 625(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 634(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 700(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 765(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 850(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 859(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 941(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1001(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1030(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1039(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1095(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1142(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1201(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1225(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1263(1,1): Condition always TRUE
+>>> Warning 207 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1265(1,1): Code has no effect
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1281(1,1): Condition always TRUE
+>>> Warning 207 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1284(1,1): Code has no effect
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1302(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1371(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1400(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1409(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1459(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1526(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1594(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1595(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1604(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1634(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1663(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1673(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1702(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1732(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 1741(1,1): Condition always TRUE
+>>> Warning 202 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\i2c_Flex_LCD.c" Line 176(13,17): Variable never used:   data
+>>> Warning 202 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 20(6,16): Variable never used:   NPN_estado
+>>> Warning 202 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 21(6,16): Variable never used:   PNP_estado
+      Memory usage:   ROM=58%      RAM=3% - 5%
+      0 Errors,  43 Warnings.
+Build Successful.

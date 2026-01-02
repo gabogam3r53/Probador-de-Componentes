@@ -1,0 +1,14 @@
+Compiling C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550 on 15-dic.-24 at 00:30
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 106(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 108(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 153(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 184(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 202(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 228(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 291(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 315(1,1): Condition always TRUE
+>>> Warning 203 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\Probador184550.c" Line 323(1,1): Condition always TRUE
+>>> Warning 202 "C:\Users\gabog\OneDrive\Documentos\GitHub\Probador_Componentes_Electronicos\i2c_Flex_LCD.c" Line 176(13,17): Variable never used:   data
+      Memory usage:   ROM=16%      RAM=3% - 4%
+      0 Errors,  10 Warnings.
+Build Successful.
